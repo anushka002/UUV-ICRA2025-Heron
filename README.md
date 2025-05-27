@@ -1,4 +1,5 @@
 # Towards Robotic Trash Removal with Autonomous Surface Vessels 
+
 **IEEE ICRA 2025 - _Robots in the Wild_ Workshop**
 
 **Course: RAS-598 Space Robotics and AI (Grade: A+)**
@@ -13,8 +14,9 @@ Welcome to the **Heron USV Project** repository, showcasing an innovative approa
   _Presented at IEEE International Conference on Robotics and Automation (Robots in the Wild Track)_
 
   Read the full paper: https://lnkd.in/dHszBTn3
+
 ---
-## **Simulation GIF**
+## **Simulation Video**
 
 ![heron final gif](https://github.com/user-attachments/assets/4c426402-e8b2-4624-9c48-aea97ab758ec)  
 
