@@ -1,0 +1,163 @@
+ALL 10 Results:
+
+TRASH COLLECTION MISSION PERFORMANCE METRICS
+=========================================
+
+Coverage Rate: 108.67%
+Detour Activations: 4
+Trash Collection Rate: 60.00%
+Path Deviation Magnitude (avg): 0.357 meters
+Path Deviation Magnitude (peak): 0.885 meters
+Path Deviation (% of inter-line spacing): 11.9%
+Waypoint Recovery Success: 100.00%
+
+Total trash objects in environment: 10
+Total trash detections: 6
+Total path length: 83.65 meters
+Theoretical path length: 76.97 meters
+
+TRASH COLLECTION MISSION PERFORMANCE METRICS
+=========================================
+
+Coverage Rate: 108.38%
+Detour Activations: 3
+Trash Collection Rate: 60.00%
+Path Deviation Magnitude (avg): 0.324 meters
+Path Deviation Magnitude (peak): 1.129 meters
+Path Deviation (% of inter-line spacing): 10.8%
+Waypoint Recovery Success: 100.00%
+
+Total trash objects in environment: 10
+Total trash detections: 3
+Total path length: 83.42 meters
+Theoretical path length: 76.97 meters
+
+TRASH COLLECTION MISSION PERFORMANCE METRICS
+=========================================
+
+Coverage Rate: 108.54%
+Detour Activations: 3
+Trash Collection Rate: 50.00%
+Path Deviation Magnitude (avg): 0.337 meters
+Path Deviation Magnitude (peak): 1.147 meters
+Path Deviation (% of inter-line spacing): 11.2%
+Waypoint Recovery Success: 100.00%
+
+Total trash objects in environment: 10
+Total trash detections: 4
+Total path length: 83.54 meters
+Theoretical path length: 76.97 meters
+
+TRASH COLLECTION MISSION PERFORMANCE METRICS
+=========================================
+
+Coverage Rate: 107.60%
+Detour Activations: 2
+Trash Collection Rate: 30.00%
+Path Deviation Magnitude (avg): 0.357 meters
+Path Deviation Magnitude (peak): 1.107 meters
+Path Deviation (% of inter-line spacing): 11.9%
+Waypoint Recovery Success: 100.00%
+
+Total trash objects in environment: 10
+Total trash detections: 2
+Total path length: 82.82 meters
+Theoretical path length: 76.97 meters
+
+TRASH COLLECTION MISSION PERFORMANCE METRICS
+=========================================
+
+Coverage Rate: 107.80%
+Detour Activations: 3
+Trash Collection Rate: 40.00%
+Path Deviation Magnitude (avg): 0.329 meters
+Path Deviation Magnitude (peak): 0.793 meters
+Path Deviation (% of inter-line spacing): 11.0%
+Waypoint Recovery Success: 100.00%
+
+Total trash objects in environment: 10
+Total trash detections: 3
+Total path length: 82.97 meters
+Theoretical path length: 76.97 meters
+
+TRASH COLLECTION MISSION PERFORMANCE METRICS
+=========================================
+
+Coverage Rate: 108.12%
+Detour Activations: 4
+Trash Collection Rate: 60.00%
+Path Deviation Magnitude (avg): 0.330 meters
+Path Deviation Magnitude (peak): 0.952 meters
+Path Deviation (% of inter-line spacing): 11.0%
+Waypoint Recovery Success: 100.00%
+
+Total trash objects in environment: 10
+Total trash detections: 4
+Total path length: 83.22 meters
+Theoretical path length: 76.97 meters
+
+TRASH COLLECTION MISSION PERFORMANCE METRICS
+=========================================
+
+Coverage Rate: 108.33%
+Detour Activations: 5
+Trash Collection Rate: 60.00%
+Path Deviation Magnitude (avg): 0.322 meters
+Path Deviation Magnitude (peak): 0.910 meters
+Path Deviation (% of inter-line spacing): 10.7%
+Waypoint Recovery Success: 100.00%
+
+Total trash objects in environment: 10
+Total trash detections: 5
+Total path length: 83.38 meters
+Theoretical path length: 76.97 meters
+
+TRASH COLLECTION MISSION PERFORMANCE METRICS
+=========================================
+
+Coverage Rate: 107.91%
+Detour Activations: 2
+Trash Collection Rate: 50.00%
+Path Deviation Magnitude (avg): 0.326 meters
+Path Deviation Magnitude (peak): 0.847 meters
+Path Deviation (% of inter-line spacing): 10.9%
+Waypoint Recovery Success: 100.00%
+
+Total trash objects in environment: 10
+Total trash detections: 2
+Total path length: 83.06 meters
+Theoretical path length: 76.97 meters
+
+TRASH COLLECTION MISSION PERFORMANCE METRICS
+=========================================
+
+Coverage Rate: 109.68%
+Detour Activations: 5
+Trash Collection Rate: 60.00%
+Path Deviation Magnitude (avg): 0.325 meters
+Path Deviation Magnitude (peak): 0.879 meters
+Path Deviation (% of inter-line spacing): 10.8%
+Waypoint Recovery Success: 100.00%
+
+Total trash objects in environment: 10
+Total trash detections: 6
+Total path length: 84.43 meters
+Theoretical path length: 76.97 meters
+
+TRASH COLLECTION MISSION PERFORMANCE METRICS
+=========================================
+
+Coverage Rate: 109.68%
+Detour Activations: 4
+Trash Collection Rate: 70.00%
+Path Deviation Magnitude (avg): 0.360 meters
+Path Deviation Magnitude (peak): 0.875 meters
+Path Deviation (% of inter-line spacing): 12.0%
+Waypoint Recovery Success: 100.00%
+
+Total trash objects in environment: 10
+Total trash detections: 5
+Total path length: 84.42 meters
+Theoretical path length: 76.97 meters
+
+
